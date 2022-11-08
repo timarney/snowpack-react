@@ -18,7 +18,7 @@
     "@babel/preset-react": "^7.8.3",
     "react": "npm:@reactesm/react@^0.1.0",
     "react-dom": "npm:@reactesm/react-dom@^0.1.1",
-    "react-simple-repeater": "^0.1.10",
+    "react-simple-repeater": "^1.0.0",
     "servor": "^3.1.0",
     "snowpack": "^1.1.2"
   }
